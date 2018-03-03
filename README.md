@@ -1,6 +1,7 @@
 # module-3
 AngularJS Module 3 - Coursera - JHU
 Module 3 Coding Assignment
+
 Click here to SIGN UP for the Single Page Web Applications with AngularJS course on Coursera. It's FREE!
 
 Time to put all that knowledge to code!
